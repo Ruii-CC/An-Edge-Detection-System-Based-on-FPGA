@@ -1,5 +1,5 @@
 # An-Edge-Detection-System-Based-on-FPGA
-This is the topic of Engineering Practice I at Central South University, and an extension is added based on it: an edge detection system based on FPGA
+这是中南大学工程实践Ⅰ的选题：基于FPGA的边缘检测系统，并在此基础上进行了额外的拓展。
 
 # Brief
 本项目基于ov5640+sobel边缘检测工程开发，添加roberts、prewitt、canny、laplacian算子，中值滤波，二值化，红外遥控控制，lcd屏幕字符显示，蜂鸣器，led。
